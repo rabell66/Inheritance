@@ -1,0 +1,1 @@
+class NoTransportException extends RuntimeException{}
